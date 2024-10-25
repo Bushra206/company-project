@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Italiana&display=swap");
+
+* {
+  font-family: "Inria Serif", serif;
+}
+.home-css {
+  background: linear-gradient(
+    179.49deg,
+    rgba(0, 1, 0, 0.5) 46.41%,
+    rgba(0, 30, 255, 0.145) 85.33%
+  );
+}
+.catagory-bg {
+  background-color: rgba(129, 102, 102, 0.75);
+}
